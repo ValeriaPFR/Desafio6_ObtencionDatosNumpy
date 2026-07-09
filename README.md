@@ -1,4 +1,4 @@
-# Desafío: Obtención de Datos y Fundamentos de NumPy
+# Desafío 6: Obtención de Datos y Fundamentos de NumPy
 
 ## 📋 Descripción del Proyecto
 
