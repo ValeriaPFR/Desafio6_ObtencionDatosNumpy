@@ -32,9 +32,7 @@ def convertir_fahrenheit_a_celsius(matriz_f):
     Toma la matriz con temperaturas en Fahrenheit y aplica la fórmula matemática
     para transformar todos los números juntos a grados Celsius.
     """
-    # Fórmula estándar de conversión masiva
-    matriz_c = (matriz_f - 32) * 5 / 9
-    return matriz_c
+    return (matriz_f - 32) * 5 / 9
 
 # =====================================================================
 # 3. CÁLCULOS ESTADÍSTICOS CON NUMPY
